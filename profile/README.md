@@ -12,9 +12,9 @@ Public gateway for canonical DOI records, current program status, and controlled
 - Certification / compliance claims: not available
 
 ## Start Here
-- Canonical entry paper: [DOI 링크]
-- Canonical repository index: [salpida-canonical 링크]
-- Official website: [salpida.foundation 링크]
+- Canonical entry paper: https://doi.org/10.5281/zenodo.19342357
+- Canonical repository index: https://doi.org/10.5281/zenodo.19121617
+- Official website: https://www.salpida.foundation/
 
 ## Open Now
 - ESL / EStL lead inquiries
