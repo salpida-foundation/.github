@@ -13,7 +13,7 @@ Public gateway for canonical DOI records, current program status, and controlled
 
 ## Start Here
 - Canonical entry paper: https://doi.org/10.5281/zenodo.19342357
-- Canonical repository index: 10.5281/zenodo.18123806
+- Canonical repository index: https://doi.org/10.5281/zenodo.18123806
 - Official website: https://www.salpida.foundation/
 
 ## Open Now
