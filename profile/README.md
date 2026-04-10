@@ -1,6 +1,6 @@
 # Salpida Foundation / SICS
 
-**Canonical DOI entry and controlled public gateway for the Sal-Meter / CAIS program.**
+**Canonical DOI entry and controlled public gateway for the Sal-Meter / CAIS program.** 
 
 > Current stage: **pre-opening / research-stage**  
 > We are building the internal reproducibility kernel of a non-clinical molecular–electrochemical measurement system.
