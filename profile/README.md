@@ -1,80 +1,113 @@
 # Salpida Foundation / SICS
- 
-**Canonical DOI entry and controlled public gateway for the Sal-Meter / CAIS program.**  
 
-> Current stage: **pre-opening / research-stage**  
-> We are building the internal reproducibility kernel of a non-clinical molecular–electrochemical measurement system.
+Public technical gateway for the Salpida Foundation, the Salpida Institute of Consciousness Science (SICS), CAIS, and the Sal-Meter research-stage kernel program.
 
----
+## Current status
 
-## Current Status
+**kernel-first · pre-opening · research-stage · non-clinical · non-diagnostic · non-therapeutic**
 
-- **Canonical authority:** DOI-registered records only
-- **Current stage:** SICS internal kernel program
-- **External Layer-0 feasibility:** limited inquiries only
-- **ESL / EStL recruitment:** active
-- **Public competition:** not active
-- **Public SDK release:** not active
-- **Certification / compliance claims:** not available from GitHub
+This GitHub organization is:
 
----
+- not the canonical authority layer
+- not a live public competition surface
+- not a certification surface
+- not a clinical or therapeutic claim surface
+- not a substitute for DOI / OSF records
 
-## Start Here
-
-- **Canonical entry paper**  
-  https://doi.org/10.5281/zenodo.19342357
-
-- **Canonical repository index**  
-  https://doi.org/10.5281/zenodo.18123806
-
-- **Official website**  
-  https://www.salpida.foundation/
+Canonical authority remains fixed in DOI / OSF records.  
+The Salpida Foundation website is the public reading and routing hub.  
+GitHub is a technical helper, implementation index, and builder-facing gateway.
 
 ---
 
-## Open Now
+## Current execution order
 
-- **ESL / EStL** lead inquiries
-- **External Layer-0** feasibility inquiries
-- PI / engineer / technical-reader evaluation of the kernel program
+The public technical sequence should be read in this order:
 
-Contact: **contact@salpida.foundation**
+1. External Layer-0
+2. SICS Internal Phase 0
+3. Phase 1
+4. Phase 2a
+5. Phase 2b
+6. LOCK 1 / LOCK 2
+7. Future SDK / broader opening
 
----
-
-## Not Open Yet
-
-- Open competition
-- Public SDK activation
-- Certification mark use
-- CAIS compliance claims
-
-**First, prove the kernel. Then, open the field.**
+External Layer-0 is not SICS Internal Phase 0.  
+External Layer-0 is not Phase 1.  
+It is an outsourced chemistry-first feasibility support track.
 
 ---
 
-## KR 안내
+## What is actually open now
 
-이 GitHub 조직은 **이미 열린 공모전 허브**가 아니라,  
-현재 단계의 **공식 공개 관문**입니다.
+1. External Layer-0 feasibility inquiry
+2. I₃⁻ / Aptamer G-Iodine development inquiry
+3. ESL recruitment
+4. EStL recruitment
+5. Internal lab readiness
+6. Proxy benchmark preparation as a support track only
 
-- 지금은 **internal kernel program** 단계입니다.
-- **External Layer-0** 문의와 **ESL / EStL** 진입만 제한적으로 열려 있습니다.
-- **공개 공모전 / SDK / 인증 / compliance claim**은 아직 열려 있지 않습니다.
-- 정본 권위는 GitHub가 아니라 **DOI 등록 문서(Zenodo / OSF)** 에 있습니다.
+Proxy benchmark preparation is not the Sal-Meter core signal track.  
+It is a synchronized multimodal benchmark support layer for comparison, metadata discipline, leakage control, and future A/B baseline development.
 
 ---
 
-## Public Boundary
+## What is not open now
 
-This organization profile is a **non-canonical public entry surface**.
+- no live public competition
+- no certified Sal-Meter
+- no validated commercial Sal-Meter device
+- no clinical, diagnostic, therapeutic, psychiatric, or anesthesia claim
+- no CAIS compliance claim by participation
+- no proxy stack as Sal-Meter
+- no GitHub README as canonical authority
 
-It does **not** by itself grant:
+---
 
-- canonical authority
-- compliance status
-- certification
-- naming rights
-- proof of validation
+## Start here
 
-For binding meaning, boundaries, naming, compliance, and interpretive control, follow the DOI-registered canonical layer.
+### Public status
+
+https://salpida.foundation/status/
+
+### For principal investigators and laboratories
+
+https://salpida.foundation/for-pis/
+
+### Publications hub
+
+https://salpida.foundation/publications/
+
+### Sal-Meter topic
+
+https://salpida.foundation/topics/sal-meter/
+
+### CAIS topic
+
+https://salpida.foundation/topics/cais/
+
+---
+
+## Main repositories
+
+### salpida-canonical
+
+Canonical DOI routing index for Salpida Foundation / SICS.
+
+GitHub is non-authoritative.  
+DOI / OSF records remain canonical.
+
+### sal-meter-kernel-program
+
+Research-stage technical gateway for the Sal-Meter / CAIS kernel program.
+
+Current focus:
+External Layer-0, I₃⁻ aptamer inquiry, ESL / EStL recruitment, internal lab readiness, and proxy benchmark boundary.
+
+---
+
+## Boundary sentence
+
+**Status first. Kernel first. Claims later.**
+
+This GitHub organization exists to help serious readers, builders, PIs, and technical collaborators enter the right document layer without confusing helper materials with canonical authority.
